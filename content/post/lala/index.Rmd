@@ -1,0 +1,19 @@
+---
+output: hugodown::md_document
+title: "Awesome idea!"
+date: 2020-11-24
+tags: []
+---
+
+I like `hugodown::hugo_start()`.
+
+```{r}
+
+plot(1:10)
+```
+
+
+
+```{r}
+DT::datatable(mtcars)
+```
