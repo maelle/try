@@ -1,5 +1,9 @@
 This is a [hugo](http://gohugo.io/) [vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme/) created by [hugodown](http://hugodown.r-lib.org/).
 
+## Preview
+
+https://affectionate-liskov-598afc.netlify.app/
+
 ## Basic operation
 
 * Preview the site with `hugodown::hugo_start()`; it will automatically
